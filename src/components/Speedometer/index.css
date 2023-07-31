@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.img-edit {
+  height: 300px;
+}
+
+.acc-button {
+  background-color: #0b69ff;
+  height: 40px;
+  width: 100px;
+  color: white;
+  font-family: Roboto;
+  border-style: none;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.trans-button {
+  background-color: transparent;
+  height: 40px;
+  width: 100px;
+  color: white;
+  font-family: Roboto;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+}
+
+.main-bg {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: white;
+  font-style: italic;
+  font-family: Roboto;
+}
